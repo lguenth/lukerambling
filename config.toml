@@ -1,0 +1,5 @@
+baseURL = "https://lukerambling.com/"
+title = "Luke Rambling"
+paginate = 5
+languageCode = "en-uk"
+theme = "PaperMod"
