@@ -1,0 +1,152 @@
+baseURL: 'https://lukerambling.com/'
+defaultContentLanguage: en
+
+title: Luke Rambling
+theme: hugo-PaperMod
+paginate: 5
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+enableEmoji: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+params:
+    env: production
+    AuthorName: Luke
+    defaultTheme: auto
+
+    ShowToc: false
+    ShowWordCount: true
+    ShowReadingTime: true
+    ShowBreadCrumbs: false
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowFullTextinRSS: true
+    displayFullLangName: true
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: true
+
+    homeInfoParams:
+        Title: Hi. I'm Luke.
+        Content: Welcome to the space where I talk nonsense.
+    
+    socialIcons:
+        -
+            name: GitHub
+            url: 'https://github.com/lguenth'
+        -
+            name: Twitter
+            url: 'https://twitter.com/powerverwirrt'
+        -
+            name: email
+            url: 'mailto:mail@lukerambling.de'
+
+    fuseOpts:
+        ignoreLocation: true
+        keys: ["title", "permalink", "summary", "content"]
+
+    assets:
+        disableHLJS: true
+
+    privacy:
+        disqus:
+            disable: true
+        googleAnalytics:
+            disable: false
+            anonymizeIP: false
+            respectDoNotTrack: true
+            useSessionStorage: false
+        instagram:
+            disable: true
+            simple: true
+        twitter:
+            disable: false
+            enableDNT: true
+            simple: false
+        vimeo:
+            disable: false
+            enableDNT: true
+            simple: false
+        youtube:
+            disable: false
+            privacyEnhanced: true
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        taxonomies:
+          category: categories
+          tag: tags
+        menu:
+            main:
+            - 
+                identifier: about
+                name: About
+                url: /about/
+                weight: 1
+            -
+                identifier: archive
+                name: Archive
+                url: /archive/
+                weight: 2
+            - 
+                identifier: tags
+                name: Tags
+                url: tags/
+                weight: 3
+            - 
+                identifier: search
+                name: Search
+                url: /search/
+                weight: 4
+
+    de:
+        languagename: ":de:"
+        languageAltTitle: German
+        weight: 2
+        taxonomies:
+          category: de-categories
+          tag: de-tags
+        menu:
+            main:
+            - 
+                identifier: about
+                name: Über mich
+                url: /about/
+                weight: 1
+            - 
+                identifier: archive
+                name: Archiv
+                url: /archives/
+                weight: 2
+            - 
+                identifier: tags
+                name: Tags
+                url: tags/
+                weight: 3
+            - 
+                identifier: search
+                name: Suche
+                url: /search/
+                weight: 4
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+minify:
+    disableXML: true
+
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    lineNoStart: 1
+    lineNos: true
+    style: dracula
+    tabWidth: 4
