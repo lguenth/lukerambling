@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Luke Rambling</title>
+    <link>https://lukerambling.com/</link>
+    <description>Recent content on Luke Rambling</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 11 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lukerambling.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Labyrinth of Digital Gardens 🌱</title>
+      <link>https://lukerambling.com/posts/gardens/</link>
+      <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lukerambling.com/posts/gardens/</guid>
+      <description> ABoppy&amp;rsquo;s Totally Integrated Machine on Being Human karlicoss&amp;rsquo; exobrain on Software and Science Andy Matuschak&amp;rsquo;s working notes on Note-taking and Knowledge Work Eleanor&amp;rsquo;s notes on History and Worldbuilding Danny Hatcher on Education and Learning mnml&amp;rsquo;s vault on Programming, Note-taking and Music Nicole van der Hoeven on Tech and TTRPGs jay l. colbert on Library Organization and Metadata Leah Ferguson on Design and D&amp;amp;D Paul Bauer Codes on Coding Nikola&amp;rsquo;s Digital Garden on CS, Mathematics and Politics Joschua&amp;rsquo;s Garden on Christianity The Integral Guide to Well-Being on Mental Health and Psychology Bryan Jenks on ADHD and IT Obsidian Hub on everything Obsidian Flancian&amp;rsquo;s Agora on Social Knowledge Graphs Data Engineering Wiki on Data Modeling and Processing lkadre&amp;rsquo;s brain on Law nitinpai&amp;rsquo;s notes on Philosophy, Tech, Teaching and Policies Joel Chan&amp;rsquo;s workin notes on Knowledge Synthesis and Cognition mister chad on Art, Design and Creativity The Quantum Well on Physics and Mathematics qwxlea&amp;rsquo; Logseq page on PKM and Psychology Alexis Rondeau on Developing and Business Anne-Laure Le Cunff&amp;rsquo;s Mental Nodes on Metacognition and Networked Thinking Walk in the Forest on Python and Bioengineering jzhao on Data Neutrality and the Web chromatically on Nursing and Medicine Santi Younger on Books SlRvb on CSS, Writing and TTRPG Linking Your Thinking on Personal Knowledge Management JT&amp;rsquo;s Digital Garden on Gastroenterology, Chronobiology and Statistics Tom Critchlow on Architecture daryllxd&amp;rsquo;s lifelong-learning repo on Coding and Business Szymon Kaliski on Learning and Cybernetics Things and Stuff Wiki on Networking and Programming Neil&amp;rsquo;s Hyper Commonplace Garden on Tech and Politics louis030195 on Philosophy and Science Maggie Delano on Pedagogy and Workflows The Refined Mind on Thinking and Writing Jethro Kuan on Emacs and Science Alexey Shmalko on Software Deving argentum on Tools for Research </description>
+      <content:encoded><![CDATA[<ul>
+<li><a href="https://publish.obsidian.md/tim">ABoppy&rsquo;s Totally Integrated Machine</a> on Being Human</li>
+<li><a href="https://beepb00p.xyz/exobrain/">karlicoss&rsquo; exobrain</a> on Software and Science</li>
+<li><a href="https://notes.andymatuschak.org/About_these_notes">Andy Matuschak&rsquo;s working notes</a> on Note-taking and Knowledge Work</li>
+<li><a href="https://publish.obsidian.md/eleanorkonik">Eleanor&rsquo;s notes</a> on History and Worldbuilding</li>
+<li><a href="https://notes.dannyhatcher.com/Notes">Danny Hatcher</a> on Education and Learning</li>
+<li><a href="https://publish.obsidian.md/manuel">mnml&rsquo;s vault</a> on Programming, Note-taking and Music</li>
+<li><a href="https://notes.nicolevanderhoeven.com/">Nicole van der Hoeven</a> on Tech and TTRPGs</li>
+<li><a href="https://wilde-at-heart.garden/">jay l. colbert</a> on Library Organization and Metadata</li>
+<li><a href="https://notes.leahferguson.com/">Leah Ferguson</a> on Design and D&amp;D</li>
+<li><a href="https://bauer.codes/notes">Paul Bauer Codes</a> on Coding</li>
+<li><a href="https://notes.nikolamilekic.com">Nikola&rsquo;s Digital Garden</a> on CS, Mathematics and Politics</li>
+<li><a href="https://joschuasgarden.com/">Joschua&rsquo;s Garden</a> on Christianity</li>
+<li><a href="https://integralguide.com/">The Integral Guide to Well-Being</a> on Mental Health and Psychology</li>
+<li><a href="https://publish.obsidian.md/bryan-jenks">Bryan Jenks</a> on ADHD and IT</li>
+<li><a href="https://publish.obsidian.md/hub">Obsidian Hub</a> on everything Obsidian</li>
+<li><a href="https://anagora.org/">Flancian&rsquo;s Agora</a> on Social Knowledge Graphs</li>
+<li><a href="https://dataengineering.wiki/">Data Engineering Wiki</a> on Data Modeling and Processing</li>
+<li><a href="https://brain.lkadre.com/">lkadre&rsquo;s brain</a> on Law</li>
+<li><a href="https://notes.nitinpai.in/">nitinpai&rsquo;s notes</a> on Philosophy, Tech, Teaching and Policies</li>
+<li><a href="https://publish.obsidian.md/joelchan-notes">Joel Chan&rsquo;s workin notes</a> on Knowledge Synthesis and Cognition</li>
+<li><a href="https://mister-chad.com">mister chad</a> on Art, Design and Creativity</li>
+<li><a href="https://publish.obsidian.md/myquantumwell/">The Quantum Well</a> on Physics and Mathematics</li>
+<li><a href="https://qwxlea.github.io/#/page/Start%20here">qwxlea&rsquo; Logseq page</a> on PKM and Psychology</li>
+<li><a href="https://publish.obsidian.md/alexisrondeau/">Alexis Rondeau</a> on Developing and Business</li>
+<li><a href="https://www.mentalnodes.com/">Anne-Laure Le Cunff&rsquo;s Mental Nodes</a> on Metacognition and Networked Thinking</li>
+<li><a href="https://walkintheforest.com/">Walk in the Forest</a> on Python and Bioengineering</li>
+<li><a href="https://jzhao.xyz/">jzhao</a> on Data Neutrality and the Web</li>
+<li><a href="https://publish.obsidian.md/chromatically">chromatically</a> on Nursing and Medicine</li>
+<li><a href="https://publish.obsidian.md/santi">Santi Younger</a> on Books</li>
+<li><a href="https://publish.obsidian.md/slrvb">SlRvb</a> on CSS, Writing and TTRPG</li>
+<li><a href="https://notes.linkingyourthinking.com">Linking Your Thinking</a> on Personal Knowledge Management</li>
+<li><a href="https://notes.gnotract.com">JT&rsquo;s Digital Garden</a> on Gastroenterology, Chronobiology and Statistics</li>
+<li><a href="https://tomcritchlow.com/wiki/">Tom Critchlow</a> on Architecture</li>
+<li><a href="https://github.com/daryllxd/lifelong-learning">daryllxd&rsquo;s lifelong-learning repo</a> on Coding and Business</li>
+<li><a href="https://szymonkaliski.com/notes/">Szymon Kaliski</a> on Learning and Cybernetics</li>
+<li><a href="https://wiki.thingsandstuff.org/">Things and Stuff Wiki</a> on Networking and Programming</li>
+<li><a href="https://commonplace.doubleloop.net">Neil&rsquo;s Hyper Commonplace Garden</a> on Tech and Politics</li>
+<li><a href="https://brain.louis030195.com/">louis030195</a> on Philosophy and Science</li>
+<li><a href="https://www.maggiedelano.com/garden/">Maggie Delano</a> on Pedagogy and Workflows</li>
+<li><a href="https://refinedmind.co/">The Refined Mind</a> on Thinking and Writing</li>
+<li><a href="https://braindump.jethro.dev/">Jethro Kuan</a> on Emacs and Science</li>
+<li><a href="https://www.alexeyshmalko.com/">Alexey Shmalko</a> on Software Deving</li>
+<li><a href="https://publish.obsidian.md/argenos">argentum</a> on Tools for Research</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://lukerambling.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lukerambling.com/about/</guid>
+      <description>About me</description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    
+    
+  </channel>
+</rss>

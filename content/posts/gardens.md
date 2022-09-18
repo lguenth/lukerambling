@@ -1,5 +1,6 @@
 ---
 title: "A Labyrinth of Digital Gardens 🌱"
+aliases: "/gardens"
 date: 2022-06-11
 ---
 
