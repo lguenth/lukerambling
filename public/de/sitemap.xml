@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lukerambling.de/de/archiv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lukerambling.de/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://lukerambling.de/de/archiv/"
+                />
+  </url><url>
     <loc>https://lukerambling.de/de/de-categories/</loc>
   </url><url>
     <loc>https://lukerambling.de/de/de-tags/</loc>
@@ -16,6 +28,30 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://lukerambling.de/de/"
+                />
+  </url><url>
+    <loc>https://lukerambling.de/de/suche/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lukerambling.de/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://lukerambling.de/de/suche/"
+                />
+  </url><url>
+    <loc>https://lukerambling.de/de/%C3%BCber-mich/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lukerambling.de/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://lukerambling.de/de/%C3%BCber-mich/"
                 />
   </url>
 </urlset>

@@ -22,12 +22,42 @@
     <lastmod>2022-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lukerambling.de/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://lukerambling.de/de/%C3%BCber-mich/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lukerambling.de/about/"
+                />
   </url><url>
     <loc>https://lukerambling.de/archive/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://lukerambling.de/de/archiv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lukerambling.de/archive/"
+                />
   </url><url>
     <loc>https://lukerambling.de/categories/</loc>
   </url><url>
     <loc>https://lukerambling.de/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://lukerambling.de/de/suche/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lukerambling.de/search/"
+                />
   </url><url>
     <loc>https://lukerambling.de/tags/</loc>
   </url>
