@@ -109,8 +109,8 @@ languages:
         languageAltTitle: "German"
         weight: 2
         taxonomies:
-          category: de-categories
-          tag: de-tags
+          category: categories
+          tag: tags
         menu:
             main:
             - 
