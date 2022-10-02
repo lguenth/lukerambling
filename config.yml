@@ -96,7 +96,7 @@ languages:
             - 
                 identifier: tags
                 name: Tags
-                url: tags/
+                url: /tags/
                 weight: 3
             - 
                 identifier: search
@@ -116,22 +116,22 @@ languages:
             - 
                 identifier: about
                 name: Über mich
-                url: /about/
+                url: /uber-mich/
                 weight: 1
             - 
                 identifier: archive
                 name: Archiv
-                url: /archives/
+                url: /archiv/
                 weight: 2
             - 
                 identifier: tags
                 name: Tags
-                url: tags/
+                url: /tags/
                 weight: 3
             - 
                 identifier: search
                 name: Suche
-                url: /search/
+                url: /suche/
                 weight: 4
 
 outputs:
