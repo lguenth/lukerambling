@@ -42,7 +42,7 @@
                 href="https://lukerambling.de/de/suche/"
                 />
   </url><url>
-    <loc>https://lukerambling.de/de/%C3%BCber-mich/</loc>
+    <loc>https://lukerambling.de/de/ueber-mich/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -51,7 +51,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://lukerambling.de/de/%C3%BCber-mich/"
+                href="https://lukerambling.de/de/ueber-mich/"
                 />
   </url>
 </urlset>
