@@ -2,36 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lukerambling.com/posts/a-labyrinth-of-digital-gardens/</loc>
+    <loc>https://lukerambling.de/posts/gardens/</loc>
     <lastmod>2022-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lukerambling.com/posts/gardens/</loc>
-    <lastmod>2022-06-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lukerambling.com/</loc>
+    <loc>https://lukerambling.de/</loc>
     <lastmod>2022-06-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://lukerambling.com/de/"
+                href="https://lukerambling.de/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lukerambling.com/"
+                href="https://lukerambling.de/"
                 />
   </url><url>
-    <loc>https://lukerambling.com/posts/</loc>
+    <loc>https://lukerambling.de/posts/</loc>
     <lastmod>2022-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lukerambling.com/about/</loc>
+    <loc>https://lukerambling.de/about/</loc>
   </url><url>
-    <loc>https://lukerambling.com/archive/</loc>
+    <loc>https://lukerambling.de/archive/</loc>
   </url><url>
-    <loc>https://lukerambling.com/categories/</loc>
+    <loc>https://lukerambling.de/categories/</loc>
   </url><url>
-    <loc>https://lukerambling.com/search/</loc>
+    <loc>https://lukerambling.de/search/</loc>
   </url><url>
-    <loc>https://lukerambling.com/tags/</loc>
+    <loc>https://lukerambling.de/tags/</loc>
   </url>
 </urlset>

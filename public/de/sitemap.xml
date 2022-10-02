@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lukerambling.com/de/de-categories/</loc>
+    <loc>https://lukerambling.de/de/de-categories/</loc>
   </url><url>
-    <loc>https://lukerambling.com/de/de-tags/</loc>
+    <loc>https://lukerambling.de/de/de-tags/</loc>
   </url><url>
-    <loc>https://lukerambling.com/de/</loc>
+    <loc>https://lukerambling.de/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lukerambling.com/"
+                href="https://lukerambling.de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://lukerambling.com/de/"
+                href="https://lukerambling.de/de/"
                 />
   </url>
 </urlset>
