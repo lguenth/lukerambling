@@ -1,6 +1,6 @@
 ---
-title: "Search" # in any language you want
-layout: "search" # is necessary
-summary: "Site search"
-placeholder: "Search my stuff"
+title: "Suche"
+layout: "search"
+summary: "Seite durchsuchen"
+placeholder: "Nach Schätzen suchen (du wirst sie nicht finden)"
 ---

@@ -1,6 +1,5 @@
 ---
-title: "About me"
+title: "Über mich"
 layout: "about"
-url: "/about"
-summary: "About me"
+summary: "Was du über mich wissen... könntest"
 ---
