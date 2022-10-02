@@ -116,7 +116,7 @@ languages:
             - 
                 identifier: about
                 name: Über mich
-                url: /uber-mich/
+                url: /ueber-mich/
                 weight: 1
             - 
                 identifier: archive
