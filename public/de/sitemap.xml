@@ -14,9 +14,17 @@
                 href="https://lukerambling.de/de/archiv/"
                 />
   </url><url>
-    <loc>https://lukerambling.de/de/de-categories/</loc>
-  </url><url>
-    <loc>https://lukerambling.de/de/de-tags/</loc>
+    <loc>https://lukerambling.de/de/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lukerambling.de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://lukerambling.de/de/categories/"
+                />
   </url><url>
     <loc>https://lukerambling.de/de/</loc>
     <xhtml:link
@@ -40,6 +48,18 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://lukerambling.de/de/suche/"
+                />
+  </url><url>
+    <loc>https://lukerambling.de/de/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lukerambling.de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://lukerambling.de/de/tags/"
                 />
   </url><url>
     <loc>https://lukerambling.de/de/ueber-mich/</loc>
