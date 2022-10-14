@@ -30,3 +30,6 @@ jobs:
           git config --local user.email "mail@lukeguenther.de"
           git config --local user.name "lguenth"
           git commit -m "Automated build: $(date '+%Y-%m-%d, %H:%M:%S')" -a
+          
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v4
