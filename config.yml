@@ -5,6 +5,7 @@ title: Luke Rambling
 theme: PaperMod
 paginate: 5
 
+relativeURLs: true
 enableInlineShortcodes: true
 enableRobotsTXT: true
 enableEmoji: true
