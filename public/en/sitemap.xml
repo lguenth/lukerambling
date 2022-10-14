@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lukerambling.de/posts/labyrinth-of-digital-gardens/</loc>
-    <lastmod>2022-06-11T00:00:00+00:00</lastmod>
+    <loc>https://lukerambling.de/tags/knowledge-management/</loc>
+    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lukerambling.de/</loc>
-    <lastmod>2022-06-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -19,6 +19,34 @@
                 />
   </url><url>
     <loc>https://lukerambling.de/posts/</loc>
+    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lukerambling.de/tags/self-care/</loc>
+    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lukerambling.de/tags/</loc>
+    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://lukerambling.de/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lukerambling.de/tags/"
+                />
+  </url><url>
+    <loc>https://lukerambling.de/tags/writing/</loc>
+    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lukerambling.de/posts/writing-to-myself-and-others/</loc>
+    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lukerambling.de/posts/labyrinth-of-digital-gardens/</loc>
+    <lastmod>2022-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lukerambling.de/tags/community/</loc>
     <lastmod>2022-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lukerambling.de/about/</loc>
@@ -67,18 +95,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://lukerambling.de/search/"
-                />
-  </url><url>
-    <loc>https://lukerambling.de/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://lukerambling.de/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lukerambling.de/tags/"
                 />
   </url>
 </urlset>
