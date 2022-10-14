@@ -1,7 +1,9 @@
 ---
 lang: en
 aliases: "/gardens"
-tags: knowledge-management, community
+tags: 
+- knowledge-management
+- community
 title: "A Labyrinth of Digital Gardens 🌱"
 description: "A collection of the most interesting, fun or useful digital gardens I have come across"
 date: 2022-06-11
