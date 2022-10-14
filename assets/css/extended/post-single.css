@@ -1,0 +1,12 @@
+.post-description {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin: 8px 0;
+    color: var(--secondary);
+    line-height: 1.6;
+    overflow: hidden;
+    display: -webkit-box;
+    font-style: italic;
+    -webkit-box-orient: vertical;
+    /* -webkit-line-clamp: 2; */
+}
