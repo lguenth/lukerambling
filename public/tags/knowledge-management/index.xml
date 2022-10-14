@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>knowledge-management on Luke Rambling</title>
+    <link>https://lukerambling.de/tags/knowledge-management/</link>
+    <description>Recent content in knowledge-management on Luke Rambling</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lukerambling.de/tags/knowledge-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing notes to myself vs Writing for others</title>
+      <link>https://lukerambling.de/posts/writing-to-myself-and-others/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lukerambling.de/posts/writing-to-myself-and-others/</guid>
+      <description>Some relatively recent thoughts on why and how I write notes: Thinking about how rambly writing makes me feel like I&amp;#39;m explaining a concept to someone else</description>
+      <content:encoded><![CDATA[<p>Sometimes it helps me to imagine that other people might read these notes. Explaining something to someone else, being the teacher, is a great way to test your own knowledge. It brings you right up to the points where you need to start investing time and energy to learn something new, broaden your horizon.</p>
+<p>I wonder if journaling, in the traditional sense of keeping a diary, and personifying the medium your writing in is a form of externalising that thought process. Like talking to a friend. They know you but they don&rsquo;t – there&rsquo;s always another piece of you to explore. Something you can give to them. Something they can give you.</p>
+<p>This also reminds me of the whole &ldquo;Building in Public&rdquo; thing that people in the knowledge-management scene are always talking about. I&rsquo;m not sure why but I involuntarily have to cringe every time I see the same &ldquo;I&rsquo;m sharing my thoughts in the spirit of working with the garage door up&rdquo; explanation on <a href="./labyrinth-of-digital-gardens">digital garden</a> sites.</p>
+<p>Perhaps because it&rsquo;s overused in this scene? Or am I actually jealous of the confidence other people have while I keep wrestling with my own and others&rsquo; (imagined) expectations? Do I feel pressured to perform by putting myself out there? I know I keep quiet in online discourse to avoid criticism, else I&rsquo;m not fun to be around because I keep fighting off imaginary and real criticism alike.</p>
+<p>However, I <em>have</em> noticed myself that following daily logs, ideas and from people like <a href="https://publish.obsidian.md/manuel">@slono</a> has been incredibly helpful in shaping my own workflow and attitude towards this note-taking business.</p>
+<p>And there&rsquo;s at least the anecdotal evidence that a friend of mine keeps having &ldquo;Oh my God, how didn&rsquo;t I think of this sooner!&rdquo; moments when talking about their dreams and projects out loud to me. As if their brain clicks once they try to explain it in a way that they hope makes sense to me as an observer, the audience.</p>
+<p>I guess my notes will always be a mix of both and that&rsquo;s okay. For me, <a href="https://twitter.com/AdamMGrant/status/1551208238581948416?t=VuvXoFMvVbenMHBz8ZI87w">writing as a form of thinking</a> seems to be largely equal to talking out loud. It&rsquo;s a form of intentionality that I would like to explore more.</p>
+<p>Related:</p>
+<ul>
+<li>partly sparked by <a href="https://andymatuschak.org/sdac/">Tools for thought – science design art craftsmanship</a></li>
+<li>Feynman Technique for teaching</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>A Labyrinth of Digital Gardens 🌱</title>
+      <link>https://lukerambling.de/posts/labyrinth-of-digital-gardens/</link>
+      <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lukerambling.de/posts/labyrinth-of-digital-gardens/</guid>
+      <description>A collection of the most interesting, fun or useful digital gardens I have come across</description>
+      <content:encoded><![CDATA[<ul>
+<li><a href="https://publish.obsidian.md/tim">ABoppy&rsquo;s Totally Integrated Machine</a> on Being Human</li>
+<li><a href="https://beepb00p.xyz/exobrain/">karlicoss&rsquo; exobrain</a> on Software and Science</li>
+<li><a href="https://notes.andymatuschak.org/About_these_notes">Andy Matuschak&rsquo;s working notes</a> on Note-taking and Knowledge Work</li>
+<li><a href="https://publish.obsidian.md/eleanorkonik">Eleanor&rsquo;s notes</a> on History and Worldbuilding</li>
+<li><a href="https://notes.dannyhatcher.com/Notes">Danny Hatcher</a> on Education and Learning</li>
+<li><a href="https://publish.obsidian.md/manuel">mnml&rsquo;s vault</a> on Programming, Note-taking and Music</li>
+<li><a href="https://notes.nicolevanderhoeven.com/">Nicole van der Hoeven</a> on Tech and TTRPGs</li>
+<li><a href="https://wilde-at-heart.garden/">jay l. colbert</a> on Library Organization and Metadata</li>
+<li><a href="https://notes.leahferguson.com/">Leah Ferguson</a> on Design and D&amp;D</li>
+<li><a href="https://bauer.codes/notes">Paul Bauer Codes</a> on Coding</li>
+<li><a href="https://notes.nikolamilekic.com">Nikola&rsquo;s Digital Garden</a> on CS, Mathematics and Politics</li>
+<li><a href="https://joschuasgarden.com/">Joschua&rsquo;s Garden</a> on Christianity</li>
+<li><a href="https://integralguide.com/">The Integral Guide to Well-Being</a> on Mental Health and Psychology</li>
+<li><a href="https://publish.obsidian.md/bryan-jenks">Bryan Jenks</a> on ADHD and IT</li>
+<li><a href="https://publish.obsidian.md/hub">Obsidian Hub</a> on everything Obsidian</li>
+<li><a href="https://anagora.org/">Flancian&rsquo;s Agora</a> on Social Knowledge Graphs</li>
+<li><a href="https://dataengineering.wiki/">Data Engineering Wiki</a> on Data Modeling and Processing</li>
+<li><a href="https://brain.lkadre.com/">lkadre&rsquo;s brain</a> on Law</li>
+<li><a href="https://notes.nitinpai.in/">nitinpai&rsquo;s notes</a> on Philosophy, Tech, Teaching and Policies</li>
+<li><a href="https://publish.obsidian.md/joelchan-notes">Joel Chan&rsquo;s workin notes</a> on Knowledge Synthesis and Cognition</li>
+<li><a href="https://mister-chad.com">mister chad</a> on Art, Design and Creativity</li>
+<li><a href="https://publish.obsidian.md/myquantumwell/">The Quantum Well</a> on Physics and Mathematics</li>
+<li><a href="https://qwxlea.github.io/#/page/Start%20here">qwxlea&rsquo; Logseq page</a> on PKM and Psychology</li>
+<li><a href="https://publish.obsidian.md/alexisrondeau/">Alexis Rondeau</a> on Developing and Business</li>
+<li><a href="https://www.mentalnodes.com/">Anne-Laure Le Cunff&rsquo;s Mental Nodes</a> on Metacognition and Networked Thinking</li>
+<li><a href="https://walkintheforest.com/">Walk in the Forest</a> on Python and Bioengineering</li>
+<li><a href="https://jzhao.xyz/">jzhao</a> on Data Neutrality and the Web</li>
+<li><a href="https://publish.obsidian.md/chromatically">chromatically</a> on Nursing and Medicine</li>
+<li><a href="https://publish.obsidian.md/santi">Santi Younger</a> on Books</li>
+<li><a href="https://publish.obsidian.md/slrvb">SlRvb</a> on CSS, Writing and TTRPG</li>
+<li><a href="https://notes.linkingyourthinking.com">Linking Your Thinking</a> on Personal Knowledge Management</li>
+<li><a href="https://notes.gnotract.com">JT&rsquo;s Digital Garden</a> on Gastroenterology, Chronobiology and Statistics</li>
+<li><a href="https://tomcritchlow.com/wiki/">Tom Critchlow</a> on Architecture</li>
+<li><a href="https://github.com/daryllxd/lifelong-learning">daryllxd&rsquo;s lifelong-learning repo</a> on Coding and Business</li>
+<li><a href="https://szymonkaliski.com/notes/">Szymon Kaliski</a> on Learning and Cybernetics</li>
+<li><a href="https://wiki.thingsandstuff.org/">Things and Stuff Wiki</a> on Networking and Programming</li>
+<li><a href="https://commonplace.doubleloop.net">Neil&rsquo;s Hyper Commonplace Garden</a> on Tech and Politics</li>
+<li><a href="https://brain.louis030195.com/">louis030195</a> on Philosophy and Science</li>
+<li><a href="https://www.maggiedelano.com/garden/">Maggie Delano</a> on Pedagogy and Workflows</li>
+<li><a href="https://refinedmind.co/">The Refined Mind</a> on Thinking and Writing</li>
+<li><a href="https://braindump.jethro.dev/">Jethro Kuan</a> on Emacs and Science</li>
+<li><a href="https://www.alexeyshmalko.com/">Alexey Shmalko</a> on Software Deving</li>
+<li><a href="https://publish.obsidian.md/argenos">argentum</a> on Tools for Research</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
